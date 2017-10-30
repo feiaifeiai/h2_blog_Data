@@ -1,2 +1,0 @@
-;             
-CREATE USER IF NOT EXISTS SA SALT 'd08555a65460f0ca' HASH 'e4ea7ad4e1d2e6877d175d0b52d09a1ed2f5ae0fc760a38c3ebb6eb4779db8a0' ADMIN;           
